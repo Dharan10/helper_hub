@@ -40,7 +40,7 @@ To use this tool, follow the steps below:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Dharan10/helper_hub.git
-   cd tool-installer
+   cd helper_hub
 2. **Make the script executable**:
     ```bash
     chmod +x helper_hub.sh
@@ -118,4 +118,4 @@ To use this tool, follow the steps below:
 - Hashcat (GitHub)
 - Sherlog (GitHub)
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT- see the [LICENSE](https://github.com/Dharan10/helper_hub/blob/main/LICENSE) file for details.
